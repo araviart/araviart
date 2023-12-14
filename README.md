@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at IUT Orléans
 ----------
 
-I love code!
+love web!
 
 * 🌍  I'm based in Orléans, France
 * ✉️  You can contact me at [alexandre.raviart1@gmail.com](mailto:alexandre.raviart1@gmail.com)
