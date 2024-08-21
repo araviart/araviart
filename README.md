@@ -8,7 +8,7 @@ love web!
 
 * 🌍  I'm based in Orléans, France
 * ✉️  You can contact me at [alexandre.raviart1@gmail.com](mailto:alexandre.raviart1@gmail.com)
-* 🚀  I'm currently working on [fencing competition manager](http://araviart/COMP_ESCRIME) and [festival website](https://sebgrtd/sae-fest-iuto)
+* 🚀  I'm currently working on my portfolio
 * 🧠  I'm learning PHP, JS, React and Three.js
 
 ### Skills
