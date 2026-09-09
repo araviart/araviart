@@ -6,8 +6,6 @@ love web!
 
 * 🌍  I'm based in Paris, France
 * ✉️  You can contact me at [alexandre.raviart1@gmail.com](mailto:alexandre.raviart1@gmail.com)
-* 🚀  I'm currently working on my portfolio
-* 🧠  I'm learning NextJS and Three.js
 
 ### Skills
 
